@@ -1,0 +1,6 @@
+framework module Pods_DemoXcode14OpaqueTypesNoWarning {
+  umbrella header "Pods-DemoXcode14OpaqueTypesNoWarning-umbrella.h"
+
+  export *
+  module * { export * }
+}
